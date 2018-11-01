@@ -18,12 +18,15 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="LinkedBinaryTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Project3 Binary Trees.cpp">
+    <ClCompile Include="treeDriver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
